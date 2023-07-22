@@ -19,8 +19,7 @@ It mainly consists of a Video Multi-Object Segmenter (VMOS) and a Mask Refiner (
 - [2023/7/3] HQTrack ranks the 2nd place in the VOTS2023 challenge.
 
 ## :snake:Pipeline
-<center><img width="80%" alt="" src=./assets/framework.png/></center>
-
+<img width="900" alt="image" src='./assets/framework1.png'>
 
 ## :bookmark_tabs:Intallation
 
