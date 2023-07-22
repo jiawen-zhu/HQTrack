@@ -1,0 +1,43 @@
+#! /bin/bash
+
+CUDA_VISIBLE_DEVICES=0 vot evaluate HQTrack
+vot pack HQTrack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

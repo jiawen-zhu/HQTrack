@@ -1,0 +1,2 @@
+spatial_correlation_sampler
+spatial_correlation_sampler_backend

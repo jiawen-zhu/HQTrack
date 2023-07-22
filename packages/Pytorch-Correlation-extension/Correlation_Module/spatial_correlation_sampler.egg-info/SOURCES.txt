@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+Correlation_Module/correlation.cpp
+Correlation_Module/correlation_cuda_kernel.cu
+Correlation_Module/correlation_sampler.cpp
+Correlation_Module/spatial_correlation_sampler/__init__.py
+Correlation_Module/spatial_correlation_sampler/spatial_correlation_sampler.py
+Correlation_Module/spatial_correlation_sampler.egg-info/PKG-INFO
+Correlation_Module/spatial_correlation_sampler.egg-info/SOURCES.txt
+Correlation_Module/spatial_correlation_sampler.egg-info/dependency_links.txt
+Correlation_Module/spatial_correlation_sampler.egg-info/requires.txt
+Correlation_Module/spatial_correlation_sampler.egg-info/top_level.txt
