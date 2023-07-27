@@ -1,5 +1,5 @@
 # Tracking Anything in High Quality
-**Technical Report**: [![](https://img.shields.io/badge/Report-arXiv:2307.xx-green)](https://arxiv.org/abs/2307.13974)
+**Technical Report**: [![](https://img.shields.io/badge/Report-arXiv:2307.13974-green)](https://arxiv.org/abs/2307.13974)
 
 <table>
 <tr>
