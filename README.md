@@ -1,5 +1,5 @@
 # Tracking Anything in High Quality
-**Technical Report**: [![](https://img.shields.io/badge/Report-arXiv:2307.xx-green)](https://arxiv.org/abs/2307.xxx)
+**Technical Report**: [![](https://img.shields.io/badge/Report-arXiv:2307.xx-green)](https://arxiv.org/abs/2307.13974)
 
 <table>
 <tr>
@@ -102,11 +102,11 @@ If you find HQTrack useful for you, please consider citing :mega:
 ```bibtex
 @misc{hqtrack,
       title={Tracking Anything in High Quality}, 
-      author={Jiawen Zhu and Zhenyu Chen and Zeqi Hao and Shijie Chang and Lu Zhang and Dong Wang and Huchuan Lu and Bin Luo and Jun-Yan He and Jin-Peng Lan and Hanyuan Chen and Chenyang Li},
-      year={2023},
-      eprint={2307.xxx},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      Author = {Jiawen Zhu and Zhenyu Chen and Zeqi Hao and Shijie Chang and Lu Zhang and Dong Wang and Huchuan Lu and Bin Luo and Jun-Yan He and Jin-Peng Lan and Hanyuan Chen and Chenyang Li},
+      Title = {Tracking Anything in High Quality},
+      Year = {2023},
+      Eprint = {arXiv:2307.13974},
+      PrimaryClass={cs.CV}
 }
 ```
 
