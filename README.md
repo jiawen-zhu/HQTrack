@@ -112,7 +112,7 @@ If you find HQTrack useful for you, please consider citing :mega:
 
 ## :hearts: Acknowledgment
 This project is based on [DeAOT](https://github.com/yoxu515/aot-benchmark), [HQ-SAM](https://github.com/SysCV/SAM-HQ), and [SAM](https://github.com/facebookresearch/segment-anything). 
-Thanks for these exellent works.
+Thanks for these excellent works.
 
 
 ## :email:Contact
