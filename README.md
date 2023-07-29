@@ -26,7 +26,7 @@ It mainly consists of a Video Multi-Object Segmenter (VMOS) and a Mask Refiner (
 <td ><center><img width="100%" alt="" src=./assets/box_prompt_demo.gif/></center></td>
 </tr>
 </table>
-We also provide a demo script, which supports box and point prompts as inputs. This is a pure python script that allows the user to test arbitrary videos.
+We also provide a [demo script](demo/demo.py), which supports box and point prompts as inputs. This is a pure python script that allows the user to test arbitrary videos.
 
 ## :snake:Pipeline
 <img width="900" alt="image" src='./assets/framework1.png'>
