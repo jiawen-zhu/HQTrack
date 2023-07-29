@@ -15,8 +15,18 @@ It mainly consists of a Video Multi-Object Segmenter (VMOS) and a Mask Refiner (
 :beer: **HQTrack obtains runner-up in the Visual Object Tracking and Segmentaion (VOTS2023) challenge.**
 
 ## :loudspeaker:News
+- [2023/7/30] We provide a demo code that can be run locally.
 - [2023/7/22] We author a [technical report](https://arxiv.org/abs/2307.13974) for HQTrack.
 - [2023/7/3] HQTrack ranks the 2nd place in the VOTS2023 challenge.
+
+## :fire:Demo 
+<table>
+<tr>
+<td ><center><img width="100%" alt="" src=./assets/point_prompt_demo.gif/></center></td>
+<td ><center><img width="100%" alt="" src=./assets/box_prompt_demo.gif/></center></td>
+</tr>
+</table>
+We also provide a demo script, which supports box and point prompts as inputs. This is a pure python script that allows the user to test arbitrary videos.
 
 ## :snake:Pipeline
 <img width="900" alt="image" src='./assets/framework1.png'>
