@@ -347,7 +347,7 @@ for idx,img_file in enumerate(img_files):
         print('init target objects ...')
         tracker.initialize(img_ori, rs)
         obj_num = len(init_masks)
-        print('HQTrack runing ...')
+        print('HQTrack running ...')
     else:
         m, confidence = tracker.track(img_ori)
         print('Running frame ', idx)
