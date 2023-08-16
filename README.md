@@ -16,6 +16,12 @@ It mainly consists of a Video Multi-Object Segmenter (VMOS) and a Mask Refiner (
 
 :beer: **HQTrack obtains runner-up in the Visual Object Tracking and Segmentaion (VOTS2023) challenge.**
 
+## :calendar:TODO
+ - [x] Demo (can be run locally).
+ - [x] Training codes.
+ - [ ] Interactive WebUI
+ - [ ] Lightweight version for computing-friendly.
+
 ## :loudspeaker:News
 - [2023/8/17] We release the training codes.
 - [2023/7/30] We provide a demo code that can be run locally.
