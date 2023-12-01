@@ -41,7 +41,7 @@ We also provide a [demo script](demo/demo.py), which supports box and point prom
 ## :snake:Pipeline
 <img width="900" alt="image" src='./assets/framework1.png'>
 
-## :bookmark_tabs:Intallation
+## :bookmark_tabs:Installation
 
 * Install the conda environment
 ```
